@@ -110,12 +110,6 @@ index=* | stats count by host
 
 ---
 
-## Screenshots
-
-> Add your Universal Forwarder connection and log ingestion screenshots here.
-
----
-
 ## References
 
 - [Splunk UF Installation Guide](https://docs.splunk.com/Documentation/Forwarder/latest/Forwarder/Installtheuniversalforwardersoftware)
