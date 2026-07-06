@@ -125,7 +125,7 @@ index=* | timechart count by sourcetype
 
 ---
 
-## 👤 Author
+## 👤 Sahil Kute
 
 **Your Name**
 - 🔗 [LinkedIn](https://linkedin.com/in/sahil-kute)
