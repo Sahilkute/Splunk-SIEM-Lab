@@ -112,12 +112,14 @@ index=* | timechart count by sourcetype
 
 ## 📸 Screenshots
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/b5131a5a-bf40-46c9-8895-1aa05a5cde0f" />
+----
 <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/4c342dc0-3b13-444e-a3c5-4d009b96a1a4" />
+----
 <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/b9720a8c-28cd-4938-be8a-b5657f5489b9" />
+----
 <img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/8f07276c-b86b-496a-bb01-060de1889b32" />
+----
 <img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/8a46f93f-842a-49e2-8527-c7b65de8f069" />
-
-
 ---
 
 ## 📚 References
